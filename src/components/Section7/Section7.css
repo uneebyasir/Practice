@@ -1,0 +1,20 @@
+.ss{
+    background-color:rgb(75, 179, 214);
+    height: 18vh;
+    justify-content: center;
+    padding:10px;
+    }
+    .button7{
+        justify-content: center;
+    }
+    button.button-7 {
+        margin-left: 20px;
+        background:#343653;
+        border:2px solid #343653;
+        color:white;
+        padding:10px;
+    }
+    .row.as {
+        align-items: center;
+    }
+  

@@ -1,0 +1,44 @@
+.col-md-6{
+    background: aqua;
+    height:50vh;
+    
+  }
+  .col-md-12.d-flex.fq {
+    padding: 0px;
+  }
+  .row3{
+    float:right;
+  }
+  .aa p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    color: white;
+    width: 551px;
+    font-size:20px;
+    text-align: -webkit-left;
+  }
+  .h1{
+  margin-bottom: .5rem;
+    font-weight: 500;
+    line-height: 1.2;
+    color: white;
+  }
+
+  .right{
+    background: #b2dd03;
+    height:50vh;
+  }
+  .right p{
+    color:white;
+    font-size:20px;
+    text-align: left;
+  }
+  .head2{
+    justify-content:space-between;
+  }
+  .zx{
+    line-height: 1.5;
+  }
+  .yu{
+    line-height: 1.5;
+  }

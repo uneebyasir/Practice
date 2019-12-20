@@ -1,0 +1,262 @@
+
+.main{
+   /* background-image:url(../../assects/images/bitmap-copy.png);  */
+   height:70vh; 
+  background-size: co;
+  
+
+}
+.container-1{
+    display: flex;
+    justify-content: space-evenly;  
+    width:100%;
+    background: #000000e6;
+    position: absolute;
+    z-index: 4;
+  }
+  .box-1{
+    width: 197px; 
+  }
+  .box-1 img{
+    margin-left: -15%
+  }
+  
+  .box-2{
+    display:flex;
+    width:1000px;
+   justify-content: space-evenly;
+  }
+  a {
+    font-size: 19px;
+  }
+  .box-2 a{
+    color:white;
+    margin-top:10px;
+    font-size: 17px
+  }
+  .box3{
+  
+    width:350px;
+    justify-content: space-evenly;
+    display:flex;
+  }
+  .jj{
+    padding-top:25px;
+    float: left;
+    margin-left: -15%;
+    margin-top: -4%;
+}
+  
+  .vc{
+    display:flex;
+    justify-content: space-between;
+  }
+  img.dd {
+    margin-left: 15px;
+    height: 30px;
+    margin-top: 10%;
+  }
+  img.ll {
+    margin-left: 12px;
+    height: 2pc;
+    margin-top: 10%;
+  }
+  
+  
+                                                                       /* navbar */
+  
+                                /* NAV CSS */
+   /* #Resets
+  –––––––––––––––––––––––––––––––––––––––––––––––––– */
+  html {box-sizing: border-box;}
+  *, *:before, *:after {box-sizing: inherit;  }
+  
+  
+  
+  /* #Universal and Default Styles
+  –––––––––––––––––––––––––––––––––––––––––––––––––– */
+  body {
+    font-family: "Open Sans", sans-serif;
+    background-color: white;
+    font-size: 14px;
+  line-height: 1;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  }
+  a {text-decoration: none;}
+  
+  .ul-reset {
+  padding-left: 0;
+   margin-top: 0;
+   margin-bottom: 0;
+  list-style: none;
+  }
+  
+  
+  
+  /* #Navigation Styles
+  –––––––––––––––––––––––––––––––––––––––––––––––––– */
+  nav {
+  font-size: 0;
+  position: absolute;
+  }
+  nav > ul > li {
+  display: inline-block;
+    font-size: 14px;
+    padding: 0 15px; 
+    position: relative;
+  }
+  nav > ul > li:first-child {padding-left: 0;}
+  nav > ul > li:last-child {padding-right: 0;}
+  nav > ul > li > a {
+  color: #fff;
+    display: block;
+    position: relative;
+    padding: 20px 0;
+    border-bottom: 3px solid transparent; 
+  }
+  nav > ul > li:hover > a {
+  color: white; 
+    border-bottom: 3px solid white;
+  }
+  
+  
+  
+  /* #Mega Menu Styles
+  –––––––––––––––––––––––––––––––––––––––––––––––––– */
+  .mega-menu {
+  /* background: transparent;  */
+    display: none;
+    left: 0;
+    /* position: absolute; */
+    text-align: left;
+    width: 100%;      
+  }
+  
+  .mega-menu ul {
+  
+  float: left;
+    margin-bottom: 20px;
+    margin-right: 40px;
+    width: 205px;
+    padding: 0; 
+    
+  }
+  .mega-menu ul:last-child {margin-right: 0;}
+  .mega-menu a {
+  border-bottom: 1px solid #ddd; 
+    color:white;
+    display: block;
+    padding: 10px 0; 
+  }
+  .mega-menu a:hover {color: #2d6a91;}
+  
+  
+  
+  /* #Droppable Class Styles
+  –––––––––––––––––––––––––––––––––––––––––––––––––– */
+  .droppable {position: static;}
+  .droppable > a:after {
+    
+   
+  
+    font-family: FontAwesome;
+    font-size: 12px;
+    padding-left: 6px;
+    position: relative;
+    top: -1px;
+  }
+  .droppable:hover .mega-menu {display: block; }
+  
+  
+  
+ 
+  .cf:before,
+  .cf:after {
+  content: " "; /* 1 */
+   display: table; /* 2 */
+  }
+  .cf:after {clear: both;}        
+  
+  
+  
+                                                   /* navbarends                                                                 */
+  
+ 
+  button.btn {
+    color: white;
+    border: 1px solid;
+    width: 96px;
+    height: 4vh;
+    margin-top: 10%;
+  }
+  button.btn2 {
+    color: white;
+    background: orange;
+    border: 1px solid orange;
+    margin-left:15px;
+    width: 70px;
+    height: 4vh;
+    margin-top: 10%;
+
+  }
+  .mm{
+   
+    position: absolute;
+    z-index: 2;
+  }
+  .kk{
+    color:white;
+    display:flex;
+    align-items: center;
+  }
+  .zz{
+  
+    
+    margin-top: 0%;
+    text-align: -webkit-right;
+    margin-right: 1;
+    margin-left: 15%;
+}
+
+  .col-md-8 {
+    text-align: -webkit-auto;
+    padding-top: 21%;
+    margin-left: 20%;
+    padding-left: 20%;
+}
+
+ 
+  .bbn{
+    margin-left:5%;
+    padding-left:5%;
+    height: 165px;
+  }
+ 
+  
+ 
+ 
+  button.button-0 {
+    background: orange;
+    color: white;
+    border: 16px solid orange;
+    width:300px;
+  }
+  .head {
+    color: white;
+    width: 549px;
+    font-size: 18px;
+    margin-top:5%;
+    line-height: 1.5;
+  }
+  .head1 {
+    color:white;
+    width: 572px;
+    font-size: 18px;
+     line-height: 1.5;
+  }
+  
+  p.head1.ml-1 {
+    width: 548px;
+  }

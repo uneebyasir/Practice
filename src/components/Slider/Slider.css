@@ -1,0 +1,69 @@
+
+.xc{
+background: linear-gradient(to right, rgba(237,33,58,1) 0%, rgba(147,41,30,1) 100%);
+height: 112vh;
+width: 100%;
+}
+
+.carousel-control-next-icon{
+   
+    background-image: url(../../assects/images/forward.png);
+    margin-top: 15%;
+}
+.carousel-control-prev-icon{
+  
+    background-image: url(../../assects/images/backward.png); 
+    margin-top: 15%;
+}
+.Third-image {
+    margin-top: 25%
+    
+}
+
+.first-image{
+    
+        margin-top: 25%;
+   
+
+         
+   
+ 
+     
+}
+.carousel-indicators{
+    display: none;
+}
+.first-image{
+    
+    align-items: center;
+
+    transition: -webkit-transform .6s ease;
+    -webkit-transition: -webkit-transform .6s ease;
+    transition: transform .6s ease;
+    transition: transform .6s ease,-webkit-transform .6s ease;
+
+}
+.yt{
+    animation: rotation 2s infinite linear;
+    animation-duration: 5s;
+    
+    width: 153px;
+    margin-top: -20%;
+    text-align: center;
+
+}
+
+  @keyframes rotation {
+    from {
+      transform: rotate(0deg);
+     
+    }
+    to {
+      transform: rotate(359deg);
+      
+    }
+}
+
+    
+          
+  

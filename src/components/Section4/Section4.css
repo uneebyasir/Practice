@@ -1,0 +1,53 @@
+.img2{
+    background-image:url(../../assects/images/bitmap-copy-2.png);
+    background-size:cover;
+    background-repeat:no-repeat;
+    height:70vh;
+  }
+  .container-fluid.bv {
+    padding: 0;
+}
+  .column{
+    color: #ffffffad;
+  }
+  .part-1 p{
+    width: 842px;
+    font-size: 20px;
+    text-align: -webkit-left;
+    color: #ffffffad;
+  }
+  
+  .part-1{
+    padding:10%;
+    text-align: -webkit-left;
+    line-height: 1.5;
+  }
+  .part2{
+    justify-content: center;
+    margin-top:5%;
+  }
+  .butt1{
+    background-color:orange;
+    border: 2px solid orange; 
+    padding:10px;
+    margin-right:20px;
+    height: 5vh;
+    width: 35%;
+    margin-top: 2%;
+  }
+  .butt2{
+    background-color:aqua;
+    border: 2px solid aqua;
+    height: 5vh;
+    margin-top: 2%;
+    width: 35%;
+    
+  
+  
+  }
+  .part2{
+    justify-content: center;
+    margin-top:5%;
+    color: #ffffffad;
+  }
+  

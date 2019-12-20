@@ -1,0 +1,48 @@
+
+
+.container-fluid.tt {
+    padding: 0px;
+}
+.img1 {
+    display: flex;
+    justify-content: center;
+    padding: 25px;
+}
+.po{
+         vertical-align: middle; 
+
+        border-style: none;
+}
+.parallax {
+    background-image: url(../../assects/images/bitmap-copy.png);
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.row1.d-flex.flex-column.bbn {
+    padding: 10%;
+    color: white;
+}
+.bbn{
+    margin-left:5%;
+    padding-left:5%;
+  
+    height:100px;
+    font-size:36px
+  }
+  p.definition {
+    font-size: 16px;
+    color: #ffffffad;
+    text-align: -webkit-left;
+    line-height: 1.5;
+}
+.qw{
+    color: #ffffffad;
+    margin-bottom: .5rem;
+    font-weight: 500;
+    line-height: 1.2;
+    font-size: 1.25rem;
+    text-align: -webkit-left;
+}

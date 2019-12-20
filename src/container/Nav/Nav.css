@@ -1,0 +1,14 @@
+.nav1{
+    display: flex;
+    text-align: center;
+    background-color: lawngreen;
+    color: white;
+    
+}
+.nav-links{
+    width: 233px;
+    display: flex;
+    color: white;
+    list-style: none;
+    justify-content: space-around;
+}
